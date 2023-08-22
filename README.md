@@ -11,6 +11,7 @@ Academic Cooperation of Transboundary and Interdisciplinary Orientation Network
 ## We need you:
 
 help us by your invaluable and supportive
-> Selection and Recommendation
-> Translation and Explanation
+> Selection and Recommendation  
+> Translation and Explanation  
 > Correction and Publication
+> 
