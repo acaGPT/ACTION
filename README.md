@@ -15,3 +15,9 @@ help us by your invaluable and supportive
 > Translation and Explanation  
 > Correction and Publication
 > 
+## Join us:
+> 
+> 
+
+We're not ready yet. But we've started.
+
