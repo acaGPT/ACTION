@@ -3,8 +3,8 @@ Academic Cooperation of Transboundary and Interdisciplinary Orientation Network
 
 ## Working Method:
 1. Collaborate through this GitHub repo
-2. Upload documents (such as pdf or word) on the `Code` page: add file -> upload files
-3. We talk on the `Discussions` page, through comments
+2. Upload documents (such as pdf or word) on the `Code` page（add file -> upload files） if you need to
+3. We talk on the `Discussions` page, through comments and replies
 > Lightweight typesetting, you can familiarize yourself with markdown syntax: [Basic Markdown Syntax](https://markdown.com.cn/basic-syntax/)
 >
 
