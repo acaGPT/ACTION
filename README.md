@@ -22,18 +22,18 @@
 请以您宝贵且强有力的支持来帮助我们完成：
 
 > **Selection and Recommendation**  
-> **遴选与推荐**
+> **遴选与推荐**  
 > Identify high-value, high-quality, especially transboundary or interdisciplinary research, theoretical tools, or academic news, and recommend them to the community to spark discussion.  
 > 甄选高价值、高质量的特别是跨领域、跨学科研究成果、理论工具或学术新闻，推荐给社区以激发讨论。
 >
 > **Translation and Explanation**  
-> **翻译与阐释**
-> Participate in translation, proofreading, and annotation work, contributing to bridging the intellectual gap between different fields.
+> **翻译与阐释**  
+> Participate in translation, proofreading, and annotation work, contributing to bridging the intellectual gap between different fields.  
 > 参与翻译、校对和注释工作，为弥合不同领域间的思想鸿沟做出贡献。
 >
 > **Correction and Publication**  
-> **校对与出版**
-> Collaborate with the community, review contributions for accuracy, readability, and formatting, fix errors, and assist in the final release and maintenance of works.
+> **校对与出版**  
+> Collaborate with the community, review contributions for accuracy, readability, and formatting, fix errors, and assist in the final release and maintenance of works.  
 > 与社区协作，共同审阅贡献内容的准确性、可读性与格式，修正错误，并协助作品的最终发布与维护。
 
 ## Join us: / 加入我们：
